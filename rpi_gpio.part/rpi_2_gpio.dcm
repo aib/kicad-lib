@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP rpi_2_gpio
+D Raspberry Pi A+/B+/2/3 GPIO header
+K raspberry pi, rpi
+$ENDCMP
+#
+#End Doc Library
