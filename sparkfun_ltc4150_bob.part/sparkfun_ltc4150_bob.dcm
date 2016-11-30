@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP sparkfun_LTC4150_bob
+D SparkFun LTC4150 Coulomb Counter Breakout
+K sparkfun, breakout, bob, ltc4150
+F https://www.sparkfun.com/products/12052
+$ENDCMP
+#
+#End Doc Library
